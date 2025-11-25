@@ -1,1 +1,0 @@
-# dockerized-django-portfolio
